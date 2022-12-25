@@ -1,0 +1,15 @@
+/home/mateus-zorinos/Documentos/Estudos/DIO/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net7.0/DesafioFundamentos
+/home/mateus-zorinos/Documentos/Estudos/DIO/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net7.0/DesafioFundamentos.deps.json
+/home/mateus-zorinos/Documentos/Estudos/DIO/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net7.0/DesafioFundamentos.runtimeconfig.json
+/home/mateus-zorinos/Documentos/Estudos/DIO/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net7.0/DesafioFundamentos.dll
+/home/mateus-zorinos/Documentos/Estudos/DIO/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net7.0/DesafioFundamentos.pdb
+/home/mateus-zorinos/Documentos/Estudos/DIO/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.csproj.AssemblyReference.cache
+/home/mateus-zorinos/Documentos/Estudos/DIO/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus-zorinos/Documentos/Estudos/DIO/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.AssemblyInfoInputs.cache
+/home/mateus-zorinos/Documentos/Estudos/DIO/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.AssemblyInfo.cs
+/home/mateus-zorinos/Documentos/Estudos/DIO/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
+/home/mateus-zorinos/Documentos/Estudos/DIO/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.dll
+/home/mateus-zorinos/Documentos/Estudos/DIO/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/refint/DesafioFundamentos.dll
+/home/mateus-zorinos/Documentos/Estudos/DIO/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.pdb
+/home/mateus-zorinos/Documentos/Estudos/DIO/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.genruntimeconfig.cache
+/home/mateus-zorinos/Documentos/Estudos/DIO/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/ref/DesafioFundamentos.dll
